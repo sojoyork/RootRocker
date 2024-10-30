@@ -1,6 +1,8 @@
 # RootRocker
 RootRocker is a tool that allows YOU to root android samsung mobile devices!
 
+# INSTALLATION
+
 Make a file called `setuprootrocker.sh` with this content:
 
 ```bash
@@ -17,3 +19,5 @@ then this:
 ```
 ./setuprootrocker.sh
 ```
+
+OR use <a href="installer.sh" download>the installer</a>
